@@ -101,7 +101,7 @@ export const albumsData = [
     },
     {   
         id:4,
-        name: "Mega Hits,",
+        name: "Mega Hits",
         image: img11,
         desc:"Track with billions in the plays",
         bgColor:"#234e52"
