@@ -75,35 +75,35 @@ export const albumsData = [
         id:0,
         name: "Top 50 Global",
         image: img8,
-        desc:"Your weekly update of the most played tracks",
+        desc:"Top 50 in the world this week",
         bgColor:"#2a4365"
     },
     {   
         id:1,
         name: "Top 50 India",
         image: img9,
-        desc:"Your weekly update of the most played tracks",
+        desc:"Top 50 in india this week",
         bgColor:"#22543d"
     },
     {   
         id:2,
         name: "Trending India",
         image: img10,
-        desc:"Your weekly update of the most played tracks",
+        desc:"India Can't get enough of these tracks",
         bgColor:"#742a2a"
     },
     {   
         id:3,
         name: "Trending Global",
         image: img16,
-        desc:"Your weekly update of the most played tracks",
+        desc:"Track that are being loved gloabaly right now",
         bgColor:"#44337a"
     },
     {   
         id:4,
         name: "Mega Hits,",
         image: img11,
-        desc:"Your weekly update of the most played tracks",
+        desc:"Track with billions in the plays",
         bgColor:"#234e52"
     },
     {   
